@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! I'm Sana Alhayani 👋
 
-<!--
-**pevmx/pevmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Computer Science Graduate (Second Honors) | 🔍 DFIR Enthusiast | 🕵️‍♂️ Cybersecurity Specialist
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+- 🎓 **Second Honors** Graduate from **King Khalid University**, specialized in Cybersecurity.
+- 🔍 Deeply interested in **Digital Forensics and Incident Response (DFIR)**.
+- 🕵️‍♂️ Passionate about **Network Forensics**, Log Analysis, and investigating security breaches.
+- 🛠️ Skilled in using tools like **Wireshark** for traffic analysis and forensic monitoring.
+- 🚀 Committed to continuous learning in the fields of threat hunting and incident handling.
+
+### 🛠️ Technical Skill Set
+- **Forensics & Monitoring:** Splunk (SIEM), Wireshark, Log Analysis, Network Traffic Analysis.
+- **Security Knowledge:** Digital Forensics, Incident Response (DFIR), Threat Hunting.
+- **Programming:** Python for Security Automation, Android Studio.
+
+### 📖 Featured Projects
+- **AI-Driven Car Fault Detection:** My graduation project applying AI for diagnostic analysis (Android-based).
+
+---
+📫 **Connect with me:** www.linkedin.com/in/sana-alhayani
